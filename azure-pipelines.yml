@@ -12,10 +12,10 @@ variables:
   azureSubscription: '9c60ca70-df76-41d0-b812-35856cbb3196'
 
   # Web app name
-  webAppName: 'HW'
+  webAppName: 'nodejs-cicd-16353'
 
   # Environment name
-  environmentName: 'hello_world'
+  environmentName: 'nodejs-cicd-16353'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
